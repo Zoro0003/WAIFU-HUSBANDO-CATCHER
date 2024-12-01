@@ -1,6 +1,6 @@
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import CommandHandler
-from Grabber import application, user_collection, collection
+from shivu import application, user_collection, collection
 import logging
 
 # Set up logging
